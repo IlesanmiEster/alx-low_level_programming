@@ -4,9 +4,9 @@
 #include <string.h>
 /**
  * check_num - check - string there are digit
- * @str: array string
+ * @str: array str
  *
- * @return: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
 int check_num(char *str)
 {
@@ -28,8 +28,8 @@ int check_num(char *str)
 }
 
 /**
- * main - Print name of the program
- * @argc: Count the arguments
+ * main - Print the name of the program
+ * @argc: Count arguments
  * @argv: Arguments
  *
  * Return: Always 0 (Success)
