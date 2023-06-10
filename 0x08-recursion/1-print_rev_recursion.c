@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * _print_rev_recursion - prints reverse of string.
- * @s: String to be printed.
+ * @s: String to be printed
  */
 void _print_rev_recursion(char *s)
 {
